@@ -1,0 +1,8 @@
+# Default ignored files
+
+# add
+.idea
+/input
+/output
+/config/local.ini
+__pycache__
